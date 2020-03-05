@@ -3,7 +3,7 @@
 ## Chatt
 
 Real-Time Offline Ready Chat App written with GraphQL, AWS AppSync, & AWS Amplify
-
+Testing the buddy work CI/CD
 ## Features
 
 - User management
